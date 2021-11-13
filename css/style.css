@@ -4,18 +4,18 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align:center;
 }
-
+/*Divisão de conteudo*/
 .left{
-    margin-top: 1px;/*Margen superior com 1 pixel*/
-    float: left;/*propriedade indicando que a Área flutuará a esquerda*/
-    width: 50%; /*Ocupando 24% da largura total destinada para o corpo*/
-    height: 500px; /*Altura de 500 pixels*/
+    margin-top: 1px;
+    float: left;
+    width: 50%; 
+    height: 500px; 
 }
 .right{
-    padding: 3px;/*Margen interna de 3 pixels*/
-    float: right;/*propriedade indicando que a Área flutuará a direita*/
-    margin-top: 1px;/*Margen superior com 1 pixel*/
-    width: 50%;/*Ocupando 74% da largura total destinada para o corpo*/
-    height: 500px;/*Altura de 494 pixels*/
+    padding: 3px;
+    float: right;
+    margin-top: 1px;
+    width: 50%;
+    height: 500px;
 }
-
+/**/
