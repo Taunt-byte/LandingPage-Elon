@@ -8,14 +8,23 @@
 .left{
     margin-top: 1px;
     float: left;
-    width: 50%; 
-    height: 500px; 
+    width: 60%; 
+    height: 500px;
+    text-align:justify;
+    padding:20px;
 }
+/*Video esta aqui*/
 .right{
-    padding: 3px;
+    padding: 20px;
     float: right;
     margin-top: 1px;
-    width: 50%;
+    width: 40%;
     height: 500px;
+    position: relative;
+    background-color:black;
 }
-/**/
+/*carrosel*/
+
+.carousel-inner{
+    padding:30px;
+}
