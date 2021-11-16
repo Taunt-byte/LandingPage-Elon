@@ -8,16 +8,15 @@
 .left{
     margin-top: 1px;
     float: left;
-    width: 60%; 
+    width: 50%; 
     height: 500px;
     padding:20px;
 }
-/*Video esta aqui*/
 .right{
     padding: 20px;
     float: right;
     margin-top: 1px;
-    width: 40%;
+    width: 50%;
     height: 500px;
 }
 /*carrosel*/
@@ -29,4 +28,8 @@
     padding:30px;
     text-align: center;
      
+}
+.img1{
+    height: 300px;
+    width: 600px; 
 }
