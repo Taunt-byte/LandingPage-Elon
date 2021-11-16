@@ -10,7 +10,6 @@
     float: left;
     width: 60%; 
     height: 500px;
-    text-align:justify;
     padding:20px;
 }
 /*Video esta aqui*/
@@ -20,11 +19,14 @@
     margin-top: 1px;
     width: 40%;
     height: 500px;
-    position: relative;
-    background-color:black;
 }
 /*carrosel*/
 
 .carousel-inner{
     padding:30px;
+}
+.precoDescricao{
+    padding:30px;
+    text-align: center;
+     
 }

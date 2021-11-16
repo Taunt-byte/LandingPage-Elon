@@ -3,7 +3,7 @@
     <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
-<h1 align="center">Landing Page Fusca</h1> 
+<h1 align="center">Alan Tuning</h1> 
 
 <p align="center">É uma Landing Page de um serviço oferecido por uma empresa.</p>
 
@@ -44,4 +44,4 @@ Tabela de conteúdos
 
 ## Midia
 
-    Caso o video do youtube esteja indisponivel na hora da visualização a uma pasta com o mesmo video basta rodar que você ira ver.
++ Caso o video do youtube esteja indisponivel na hora da visualização a uma pasta com o mesmo video basta rodar que você ira ver.
