@@ -38,9 +38,15 @@ Tabela de conteúdos
 
 ## Como usar
 
+Para utilizar desse projeto basta seguir os seguintes passos
+
+1)
+
 ## Pre-requisitos
 
 ## Tecnologias
+
+
 
 ## Midia
 
