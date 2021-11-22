@@ -19,6 +19,8 @@
     width: 50%;
     height: 500px;
     text-align: justify;
+    color: white;
+    background-color: black;
 }
 /*carrosel*/
 
@@ -36,4 +38,10 @@
 .img1{
     height: 300px;
     width: 600px; 
+}
+
+.Intro{
+    padding:30px;
+    text-align: justify;
+
 }
