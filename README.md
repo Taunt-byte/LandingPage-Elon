@@ -38,12 +38,13 @@ Tabela de conteúdos
 
 ## Como usar
 
-Para utilizar desse projeto basta seguir os seguintes passos
+Para utilizar desse projeto basta seguir os seguintes passos.
 
 1)
 
 ## Pre-requisitos
 
+Para "rodar" esse projeto em sua maquina basta seguir os seguintes passos.
 ## Tecnologias
 
 
