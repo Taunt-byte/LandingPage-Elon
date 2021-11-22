@@ -18,7 +18,7 @@
     margin-top: 1px;
     width: 50%;
     height: 500px;
-    align: justify;
+    text-align: justify;
 }
 /*carrosel*/
 
@@ -27,6 +27,7 @@
     height: 600px; 
     width: auto; 
 }
+
 .precoDescricao{
     padding:30px;
     text-align: center;
