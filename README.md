@@ -44,7 +44,10 @@ Para utilizar desse projeto basta seguir os seguintes passos.
 
 ## Pre-requisitos
 
-Para "rodar" esse projeto em sua maquina basta seguir os seguintes passos.
+Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maquina.
+
+1) Git
+2) Uma boa IDE
 ## Tecnologias
 
 <table>
