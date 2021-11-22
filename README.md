@@ -47,7 +47,16 @@ Para utilizar desse projeto basta seguir os seguintes passos.
 Para "rodar" esse projeto em sua maquina basta seguir os seguintes passos.
 ## Tecnologias
 
-
+<table>
+    <tr>
+    <td>CSS</td>
+    <td>BootStrap</td>
+    </tr>
+    <tr>
+    <td>3.*.*</td>
+    <td>5.*.*</td>
+    </tr>
+</table>
 
 ## Midia
 
