@@ -7,14 +7,33 @@
     background-color: black;
     color: #fff;
   }
+
+.navbar-brand{
+    font-family: fantasy;    
+}
 /*Sessão da Introdução*/
 .Intro{
-    padding: 20px;
+    padding: 10px;
     text-align: justify;
 }
 
 .Intro h1{
-    padding: 20px;
     text-align: center;
-    font-family: fantasy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+
+}
+/*Sessão sobre restauração*/
+.titulo h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    padding: 10px; 
+}
+/*Sessão sobre restauração*/
+.restauracao{
+    padding: 10px;
+    text-align: justify;  
+}
+.restauracao h1{ 
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
