@@ -23,7 +23,7 @@
     margin-top: 1px;
     float: left;
     width: 50%; 
-    height: 500px;
+    height: 600px;
     padding:20px;
 }
 .right{
@@ -31,7 +31,7 @@
     float: right;
     margin-top: 1px;
     width: 50%;
-    height: 500px;
+    height: 600px;
     text-align: justify;
 }
 .left h1{
