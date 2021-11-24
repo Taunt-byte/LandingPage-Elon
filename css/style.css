@@ -1,8 +1,22 @@
-*{
-    margin:0;
-    padding:0;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    text-align:center;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    scroll-behavior: smooth;
+  }
+/*FEED DO SITE*/
+
+/*Introdução*/
+.Intro{
+    padding: 20px;
+    text-align: justify;
+}
+
+.Intro h1{
+    padding: 20px;
+    text-align: center;
+
 }
 /*Divisão de conteudo*/
 .left{
@@ -20,12 +34,24 @@
     height: 500px;
     text-align: justify;
 }
+.left h1{
+    text-align: center;
+    padding:20px;
+}
+.right h1{
+    text-align: center;
+    padding:20px;
+}
 /*carrosel*/
 
 .carousel-inner{
     padding:30px;
 }
-
+.carrosel h1{
+    text-align: center;
+    padding:20px;
+}
+/*Preços*/
 .precoDescricao{
     padding:30px;
     text-align: center;
@@ -36,7 +62,3 @@
     width: 600px; 
 }
 
-.Intro{
-    padding: 20px;
-    text-align: justify;
-}
