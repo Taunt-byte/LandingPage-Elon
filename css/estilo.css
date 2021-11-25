@@ -4,8 +4,7 @@
     padding: 0;
     font-family: 'Kumbh Sans', sans-serif;
     scroll-behavior: smooth;
-    background-color: black;
-    color: #fff;
+
   }
 /*Parte da NavBar*/
 .navbar-brand{
@@ -14,7 +13,7 @@
 /*Sessão da Introdução*/
 .Intro{
     padding: 10px;
-    text-align: justify;
+    text-align: center;
 }
 
 .Intro h1{
@@ -23,23 +22,27 @@
 
 }
 /*Sessão sobre restauração*/
-.titulo h1{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-    padding: 10px; 
-}
-/*Sessão sobre restauração*/
 .restauracao{
     padding: 10px;
-    text-align: justify;  
+    text-align: center;  
 }
 .restauracao h1{ 
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
-.restauracao a{
-    text-decoration: none;
-    color: rgb(207, 13, 13);
-    font-family: 'Times New Roman', Times, serif;
-} 
-/*Sessão sobre restauração*/
+
+/*Sessão da comparação*/
+.AntesDepois{
+    padding: 10px; 
+}
+
+.AntesDepois h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    padding: 10px; 
+}
+
+/*Sessão de preço*/
+.precoDescricao{
+    text-align: center;
+}
