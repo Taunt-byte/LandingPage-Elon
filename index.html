@@ -121,24 +121,33 @@
         <!--Contato parte-->
         <div id="contato" class="cont">
           <h2>Fale com a gente</h2>
-          <form action="index.html" method="post">
-              <div class="input-field">
-                <label for="nome">Nome:</label>
-                <input type="text" id="nome" placeholder="Nome">     
+          <form>
+            <div class="form-group">
+              <label for="exampleInputEmail1">Endereço de email</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Seu email">
+              <small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu email, com ninguém.</small>
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Sobre o carro</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <form>
+              <div class="form-group">
+                <label for="exampleFormControlFile1">Fotos do carro</label>
+                <input type="file" class="form-control-file" id="exampleFormControlFile1">
               </div>
-              <div class="input-field">
-                <label for="Sobrenome">Sobrenome:</label>
-                <input type="text" id="Sobrenome" placeholder="Sobrenome">     
-              </div>
-              <div class="input-field">
-                <label for="Email">Email:</label>
-                <input type="password" id="Email" placeholder="Email">  
-              </div>
-              <div class="center">
-                  <button>Enviar</button>
-              </div>
+            </form>
+            <select class="form-control form-control-lg">
+              <option>Restauração completa</option>
+              <option>Restauração Parcial</option>
+              <option>Customização completa</option>
+            </select>
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1">
+              <label class="form-check-label" for="exampleCheck1">Termos de uso</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
           </form>
-      </div>
   </main>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

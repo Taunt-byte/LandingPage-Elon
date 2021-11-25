@@ -41,8 +41,16 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
     padding: 10px; 
 }
+/*Sessão do video*/
+.video{
+    text-align: center; 
+}
 
 /*Sessão de preço*/
 .precoDescricao{
     text-align: center;
+}
+
+.cont{
+    text-align: center; 
 }
