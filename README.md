@@ -20,7 +20,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento.  🚧
+	✔️  Pronto  ✔️
 </h4>
 
 ## Sobre
