@@ -31,7 +31,7 @@ Tabela de conteúdos
 
 - [X] Fotos 
 - [X] Video
-- [ ] Pagina Principal
+- [X] Pagina Principal
 - [X] Uso do BootStrap
 
 ## Instalação
@@ -40,7 +40,17 @@ Tabela de conteúdos
 
 Para utilizar desse projeto basta seguir os seguintes passos.
 
-1)
+1) Ter esse codigo em sua maquina e para isso basta digitar em seu terminal:
+
+<code>git clone https://github.com/Taunt-byte/LandingPage-Elon.git</code>
+
+2) Depois disso basta abrir o arquivo index.html em qualquer navegador de sua escolha.
+
+OU
+
+1) Para ver essa landing page você tambem pode utilizar o link abaixo:
+
+<code>https://taunt-byte.github.io/LandingPage-Elon/</code>
 
 ## Pre-requisitos
 
@@ -48,6 +58,7 @@ Para "rodar" esse projeto em sua maquina basta ter os seguintes itens em sua maq
 
 1) Git
 2) Uma boa IDE
+
 ## Tecnologias
 
 <table>
